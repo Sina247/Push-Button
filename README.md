@@ -1,6 +1,6 @@
 # 🔘 Push Button
 
-A sleek, responsive **Push Button** built with **HTML** and **CSS**. This button adds a modern, tactile effect that enhances user interaction on any website or interface.
+A sleek, responsive **Push Button** built with **HTML** and **CSS**. This button adds a modern and tactile effect that enhances user interaction on any website or interface.
 
 ---
 
